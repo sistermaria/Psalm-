@@ -1,0 +1,24 @@
+
+body{
+color:black;
+background-color:#F7BEBB;
+text-align:center;
+text-decoration:none;
+}
+h1{
+	color:white;
+	font-size:30 px;
+	 text-align:center;
+    text-shadow:2px 2px 2px black;
+	font:normal;
+	text-decoration:none;
+}
+h2{
+color:white;
+	font-size:20 px;
+	 text-align:center;
+    text-shadow:2px 2px 2px black;
+	font:normal;
+    text-decoration:none;
+}
+	
